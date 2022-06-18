@@ -41,7 +41,6 @@ THEN I am presented with a responsive layout that adapts to my viewport
 <img width="1440" alt="Screen Shot 2022-06-18 at 3 25 05 PM" src="https://user-images.githubusercontent.com/32420245/174456068-dbb32156-3a4a-42c7-8a0c-26c493cbe412.png">
 <img width="1440" alt="Screen Shot 2022-06-18 at 3 25 20 PM" src="https://user-images.githubusercontent.com/32420245/174456072-98545bf3-dbaa-483a-8abd-2475b7ee8ec0.png">
 <img width="1440" alt="Screen Shot 2022-06-18 at 3 25 35 PM" src="https://user-images.githubusercontent.com/32420245/174456080-0707ddac-9fbd-431f-9fab-23f64061917d.png">
-<img width="1440" alt="Screen Shot 2022-06-18 at 3 25 35 PM" src="https://user-images.githubusercontent.com/32420245/174456084-1e5b1a0f-affd-4693-a124-1b4850549e0a.png">
 <img width="1440" alt="Screen Shot 2022-06-18 at 3 25 46 PM" src="https://user-images.githubusercontent.com/32420245/174456092-c79cc667-6582-419a-8aac-c5dbb5923570.png">
 
 ## Link to Deployed Application
