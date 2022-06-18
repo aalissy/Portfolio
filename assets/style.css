@@ -1,0 +1,176 @@
+/* default formatting */
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: white;
+}
+
+/* header formatting */
+header {
+    padding: 20px;
+    font-family: 'Bodoni';
+    background-color: royalblue;
+    color: white;
+}
+
+header h1 {
+    display: inline-block;
+    font-size: 40px;
+}
+
+/* nav formatting */
+nav {
+    padding-top: 25px;
+    margin-right: 10px;
+    float: right;
+    font-family: 'Gill Sans';
+    font-size: 20px;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: underline dotted;
+}
+
+/* background image */
+.hero {
+    height: 500px;
+    width: 100%;
+    display: flex;
+    margin-bottom: 25px;
+    background-image: url("../assets/images/code_programming_symbols_140997_2560x1080.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+/*portfolio image */
+.portfolio-image {
+    position: absolute;
+    top: 250px;
+    left: 30px;
+    border: 3px white solid;
+    height: 200px;
+    width: 200px;
+}
+
+/* text in background image */
+.hero h2 {
+    position: relative;
+    color: pink;
+    text-align: center;
+    font-size: 50px;
+    top: 75%;
+    left: 80%;
+    font-family: 'Bodoni';
+}
+
+/* about me and contact me main headers */
+.about-me, .contact-me {
+    display: flex;
+    margin: 15px 35px;  
+    width: 75%;
+    align-items: center;
+    font-family: 'Gill Sans';
+    font-size: 25px;
+}
+  
+/* border formatting */
+.border {
+    border-right: 5px solid pink;
+    height: 400px;
+    padding: 10px 25px;
+}
+ 
+/* about me text */
+.about-me-text {
+    width: 500px;
+    flex: 35;
+}
+  
+.about-me-text p {
+    font-family: 'Gill Sans';
+    font-size: 20px;
+    text-align: left;
+    margin-left: 40px;
+}
+
+/* work main header */
+.work {
+    display: flex;
+    margin: 20px 35px;  
+    width: 80%;
+    align-items: center;
+    font-family: 'Gill Sans';
+    font-size: 25px;
+}
+
+/* border formatting */
+.border-2 {
+    border-right: 5px solid pink;
+    height: 500px;
+    padding: 10px 32px;
+}
+
+/* my work section */
+.container {
+    display: flex;  
+    align-items: center; 
+    float: left;
+    width: 80%;  
+}
+
+.work-done {
+    margin-left: 35px;
+}
+
+/* image formatting */
+.first-homework {
+    position: relative;
+    width: 100%;
+    border: 5px solid skyblue;
+    opacity: .5;
+    min-width: 250px;
+}
+
+/* image opacity changes on hover */
+.first-homework:hover {
+    opacity: 1;
+}
+
+/* image caption */
+figcaption {
+    position: relative;
+    margin: -63px 5px 0px 5px;
+    font-size: 15px;
+    font-weight: bold;
+    color: black;
+    background-color: skyblue;
+    text-decoration: underline;
+}
+
+/* border formatting */
+.border-3 {
+    border-right: 5px solid pink;
+    height: 150px;
+    padding: 10px 10px;
+}
+
+/* contact formatting */
+.contact-info {
+    flex: 200;
+  }
+
+.contact-info ul li a {
+    font-size: 20px;
+    color: black;
+    margin: 35px;
+  }
