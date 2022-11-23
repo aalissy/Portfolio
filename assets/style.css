@@ -143,7 +143,7 @@ nav a {
 }
 
 .dnd-project {
-    position: relative;
+    position: fixed;
     width: 130%;
     height: 250px;
     border: 5px solid skyblue;
@@ -152,6 +152,19 @@ nav a {
 }
 
 .dnd-project:hover {
+    opacity: 1;
+}
+
+.wellness-project {
+    position: relative;
+    width: 130%;
+    height: 250px;
+    border: 5px solid skyblue;
+    opacity: .5;
+    min-width: 250px;
+}
+
+.wellness-project:hover {
     opacity: 1;
 }
 
